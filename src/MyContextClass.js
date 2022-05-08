@@ -13,8 +13,6 @@ const MyContext = React.createContext({
   getId: () => { }
 });
 
-
-
 class MyContextClass extends Component {
   constructor() {
     super()
